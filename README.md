@@ -1,2 +1,5 @@
 # leetcode-playground
-Leetcode Playground Exercises
+
+Solutins for the following Leetcode Exercises:
+
+- [Shuffle String](./shuffle-string/README.md): My solution for <https://leetcode.com/problems/shuffle-string/>
