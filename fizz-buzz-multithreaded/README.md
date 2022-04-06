@@ -1,12 +1,16 @@
 # Fizz Buzz Multithreaded
 
-## Executing Unit Tests
+Java 11 implementation of the Fizz Buzz Multithreaded leet code exercise.
+
+<https://leetcode.com/problems/fizz-buzz-multithreaded/>
+
+## Running the unit tests
 
 ```bash
 mvn test
 ```
 
-## Exercise Description
+## Problem Description
 
 You have the four functions:
 
