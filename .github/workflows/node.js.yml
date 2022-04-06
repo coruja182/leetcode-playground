@@ -5,9 +5,11 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - '**' # matches every branch
   pull_request:
-    branches: [ main ]
+    branches:
+      - '**' # matches every branch
 
 jobs:
   build_shuffle_string:
@@ -28,7 +30,7 @@ jobs:
 #       with:
 #         filters: |
 #           shuffleString:
-#             - 'shuffle-string/**'     
+#             - 'shuffle-string/**'
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
       with:
