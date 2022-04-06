@@ -13,7 +13,7 @@ on:
 
 jobs:
   build_shuffle_string:
-    name: Build Shuddle String Exercise
+    name: Build shuffle-string
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -54,7 +54,7 @@ jobs:
         run: npm test
 
   build_fixx_buzz:
-    name: Build Shuddle String Exercise
+    name: Build fizz-buzz-multithreaded
     runs-on: ubuntu-latest
     defaults:
       run:
