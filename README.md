@@ -1,6 +1,6 @@
 # Challenge Solution
 
-![badge](https://github.com/github/docs/actions/workflows/node.js.yml/badge.svg)
+![badge](https://github.com/github/docs/actions/workflows/node.js.yml/badge.svg?branch=main)
 
 ## Contents:
 
