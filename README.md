@@ -1,5 +1,7 @@
 # Challenge Solution
 
+![badge](https://github.com/github/docs/actions/workflows/node.js.yml/badge.svg)
+
 ## Contents:
 
 - [Shuffle String](./shuffle-string/README.md): My solution for <https://leetcode.com/problems/shuffle-string/>
