@@ -9,6 +9,8 @@ Since I was not sure whether the `Constraints` are something I should validate o
 ## Running the unit tests
 
 ```bash
+npm install
+
 npm test
 ```
 
