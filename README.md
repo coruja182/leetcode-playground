@@ -1,8 +1,8 @@
 # Challenge Solution
 
-![badge](https://github.com/github/docs/actions/workflows/node.js.yml/badge.svg?branch=main)
+![badge](https://github.com//coruja182/leetcode-playground/actions/workflows/run_tests.yml/badge.svg)
 
-## Contents:
+## Contents
 
 - [Shuffle String](./shuffle-string/README.md): My solution for <https://leetcode.com/problems/shuffle-string/>
 - [Fizz Buzz Multithreaded](./fizz-buzz-multithreaded/README.md): My solution for <https://leetcode.com/problems/fizz-buzz-multithreaded/>
